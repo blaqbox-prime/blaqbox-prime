@@ -1,9 +1,11 @@
 <h1 align="center">Hello 👋, I'm Karabo Sambo</h1>
 <h3 align="center">I am a front-end web developer from South Africa Looking to make great things on the web and become a part of something meaningful.</h3>
 
-- 1. My Most Recent Work is an Ecommerce Site Built with Next.js, Sanity.io and Strpie [BoatSound - ecommerce](https://boatsound-ecommerce.vercel.app/)
-
 - 🌱 I’m currently learning **Next.js, Sanity CMS,JavaScript testing, TypeScript, Blender & GIMP 😋**
+
+### Top Projects
+
+- 1. My Most Recent Work is an Ecommerce Site Built with Next.js, Sanity.io and Strpie [BoatSound - ecommerce](https://boatsound-ecommerce.vercel.app/)
 
 - 2. A Todo App Built with React and Redux. Redux being the main focus of this build and how to manage state using redux as opposed to something like React.useState or React Context API [FEM Todo App](https://fem-todo-redux.web.app/)
 
@@ -12,10 +14,6 @@
 - 📫 Reach out and let's collaborate. We can build great things together **karabosambo@outlook.com**
 
 - ⚡ Fun fact **I just want to chill, play music and make a living doing the things I love. I just happen to love creating things and being a part of something bigger than me.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
