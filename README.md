@@ -3,13 +3,16 @@
 
 - 🌱 I’m currently learning **Next.js, Sanity CMS,JavaScript testing, TypeScript, Blender & GIMP 😋**
 
-### Top Projects
+### Front-End Projects
 
-- 1. My Most Recent Work is an Ecommerce Site Built with Next.js, Sanity.io and Strpie [BoatSound - ecommerce](https://boatsound-ecommerce.vercel.app/)
-
-- 2. A Todo App Built with React and Redux. Redux being the main focus of this build and how to manage state using redux as opposed to something like React.useState or React Context API [FEM Todo App](https://fem-todo-redux.web.app/)
-
+- 1. Ecommerce Site Built with Next.js, Sanity.io and Strpie [BoatSound - ecommerce](https://boatsound-ecommerce.vercel.app/)
+- 2. A Todo App Built with React and Redux.[Themed Todo App](https://fem-todo-redux.web.app/)
 - 3. Real Estate site built using the Bayut API [Real Estate - Bayut API](https://real-estate-next-two.vercel.app/)
+- 4. Loop Studios Landing Page.[Loop Studios](https://blaqbox-prime.github.io/loopstudios-landing-page/)
+- 5. IP Address Tracker w/ IPify & React.[IP Tracker](https://fem-iptracker.web.app/)
+- 6. Crowd Funding Project Page.[CrowdFunded](https://fem-crowdfunding-page.web.app/)
+- 7. Tip Calclator & Bill Splitter .[Bill Splitter](https://react-tip-calculator.web.app//)
+
 
 - 📫 Reach out and let's collaborate. We can build great things together **karabosambo@outlook.com**
 
